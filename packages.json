@@ -1,8 +1,8 @@
 {
   "packages": {
-    "dpc-sdp/vicgovau": {
+    "dpc-sdp/tide-starter-kit": {
       "master": {
-        "name": "dpc-sdp/vicgovau",
+        "name": "dpc-sdp/tide-starter-kit",
         "type": "project",
         "version": "dev-master",
         "source": {
