@@ -10,6 +10,6 @@
     }
   ],
   "require": {
-    "dpc-sdp/vicgovau": "dev-master"
+    "dpc-sdp/tide-starter-kit": "dev-master"
   }
 }
